@@ -20,7 +20,7 @@ public class RobotMap
     public static int driveEncoderChannelB = 4;
 
     public static int driveEncoderChannelA = 3;
-    public static double driveDistancePerPulse=0.00000016; //TODO: calculate the value of distance per pulse
+    public static double driveDistancePerPulse=0.00133; //TODO: calculate the value of distance per pulse
     // For example to map the left and right motors, you could define the
     // following variables to use with your drivetrain subsystem.
     // public static int leftMotor = 1;
